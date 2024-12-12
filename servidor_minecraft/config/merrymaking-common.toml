@@ -1,0 +1,37 @@
+
+["Common Configs for MerryMaking Mod"]
+	#Christmas presents can spawn in chests. Set to 0 to disable
+	#Range: > 0
+	christmas_present_chest_spawn = 1
+	#Tiny Spruce saplings will drop from Spruce Leaves. Set to 0 to disable
+	#Range: > 0
+	tiny_spruce_from_leaves_drop = 1
+	#Enable Christmas Recipes such as armor, foods, decorations. Set to False to disable
+	christmas_enabled = true
+	#Enable Holly tree to spawn in world. Set to False to disable
+	holly_enabled = true
+	#Enable Tiny Spruce tree to spawn in world. Set to False to disable
+	tiny_spruce_enabled = true
+	#Enable Pot O Gold Spawn.
+	st_patricks_day_enabled = true
+	#Enable Clover to grow naturally in the world. Set to False to disable
+	clover_enabled = true
+	#Enable Easter recipes.
+	easter_enabled = true
+	#Easter Eggs will appear naturally in the world. Set to False to disable.
+	easter_egg_spawn = true
+	#Easter baskets can spawn in chests. Set to 0 to disable
+	#Range: > 0
+	easter_basket_chest_spawn = 1
+	#Enable Easter Lily flower to grow naturally in the world. Set to False to disable
+	easter_lily_enabled = true
+	#Enable Hydrangea flower to grow naturally in the world.  Set to False to disable
+	hydrangea_enabled = true
+	#Enable Hyacinth flower to grow naturally in the world. Set to False to disable
+	hyacinth_enabled = true
+	#Enable Colored Chickens to spawn naturally in the world. Set to False to disable
+	colored_chicken_enabled = true
+	#Chickens will drop colored eggs. Set to 0 to disable
+	#Range: > 0
+	colored_egg_spawn = 1
+
